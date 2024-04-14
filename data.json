@@ -1,0 +1,30 @@
+[
+  {
+    "ai": "$10\\%$",
+    "user": "Consider the following statements:\n\n1. General Agreement on Tariffs and Trade (GATT) traces its origins to the 1944 Bretton Woods Conference.\n2. The World Trade Organisation (WTO) was established under the Marrakesh agreement\n after the Uruguay Round of GATT.\n\nWhich of the statements given above is/are correct?",
+    "went_back": false,
+    "height1": 32,
+    "height2": 280
+  },
+  {
+    "ai": "You selected the incorrect answer. Tap any suggestion to know more:",
+    "user": "### Neither 1 nor 2 $e^{i\\pi} + 1 = 0$",
+    "went_back": false,
+    "height1": 55,
+    "height2": 40
+  },
+  {
+    "ai": "<strong>Sure.</strong> Both statements are correct. The <strong>General Agreement on Tariffs and Trade (GATT)</strong> originated from the 1944 Bretton Woods Conference, thus making the first statement correct. The <strong>World Trade Organisation (WTO)</strong> was indeed established under the Marrakesh agreement after the Uruguay Round of GATT, validating the second statement. Therefore, the answer is (c), both statements are correct.",
+    "user": "Please explain the correct answer to me.",
+    "went_back": false,
+    "height1": 285,
+    "height2": 53
+  },
+  {
+    "ai": "Ah, diving into the tapestry of history to uncover the very threads that stitched together our modern economic landscape! The Bretton Woods Conference, convened in 1944 in Bretton Woods, New Hampshire, was a gathering of 44 Allied nations during the final stages of World War II. The primary aim was to establish a new global monetary system and to promote international economic cooperation and reconstruction post-war. While the conference itself directly led to the creation of the International Monetary Fund (IMF) and the World Bank, it also set the stage for the establishment of a system to regulate international trade, which was crucial for post-war recovery and economic stability.\n\nThe linkage between the Bretton Woods Conference and the General Agreement on Tariffs and Trade (GATT) can be seen as a part of this broader effort to create a stable and cooperative international economic environment. The *main goal* specific to GATT, inspired by the spirit of Bretton Woods, was to:\n\n1. **Reduce Tariffs and Other Trade Barriers:** The principal aim was to decrease customs tariffs and other trade barriers to foster a free and fair global trade environment. By doing so, it hoped to encourage the economic growth of war-torn and economically depressed nations.\n   \n2. **Eliminate Discriminatory Treatment in International Commerce:** GATT aimed at establishing a non-discriminatory trading system. This meant treating all member nations equally under the principle of most-favored-nation (MFN) status, which discouraged preferential trade practices that favored one country over another.\n\n3. **Provide a Platform for Negotiation and Dispute Resolution:** Another crucial objective was to create a forum where member countries could negotiate trade agreements and resolve trade disputes collaboratively, thus avoiding unilateral actions that could lead to trade wars or retaliations.\n\nIn essence, the groundwork laid at Bretton Woods for rebuilding and stabilizing the global economy after World War II included not just financial mechanisms through the IMF and the World Bank but also a strategic move towards rebuilding world trade through what would eventually become the GATT. This trinity of international institutions set the stage for the immense economic growth and expansion of global trade in the post-war era. The momentum and principles of GATT evolved and expanded, leading to the establishment of the World Trade Organization (WTO) in 1995, continuing and enhancing the mission initiated by the Bretton Woods visionaries. \n\n ### Test heading This is a new chat we just had with the AI.",
+    "user": "What was the main goal of the Bretton Woods Conference in relation to GATT?",
+    "went_back": false,
+    "height1": 1775,
+    "height2": 72
+  }
+]
